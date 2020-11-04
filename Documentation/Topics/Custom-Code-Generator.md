@@ -4,7 +4,7 @@
 ---
 
 The default code generator provided by Visual Studio is not flexible at all - you have to live with the code it generates. 
-The only option it provides is to switch between private an public visibility of the generated code.
+The only option it provides is to switch between private and public visibility of the generated code.
 
 With ResXManager you get another option: A fully customizable text template based code generator.
 
